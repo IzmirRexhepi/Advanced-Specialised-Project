@@ -1,8 +1,5 @@
 # Week X Progress Log (Start Date – End Date)
 
-## Learning Style Reflection (Week 1 only)
-[If it's Week 1, write a short paragraph about how you best learn (visual, kinesthetic, reading/writing, auditory, etc), what helps you stay focused, and how you'll apply that to this project.]
-
 ---
 
 ## Goals Completed
