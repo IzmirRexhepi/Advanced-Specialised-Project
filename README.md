@@ -10,14 +10,14 @@ The goal of this ASP is to design and implement a **scalable multiplayer framewo
 
 This framework should allow:
 - **Real-time P2P or client-server multiplayer** over the internet
-- **Matchmaking** (random or ranked)
-- **Session hosting** (manual, cloud, or dedicated)
+- **Matchmaking** (random)
+- **Session hosting** (manual, cloud)
 - **Replays** and **input delay buffering** (for rollback/netcode experiments)
 - Optionally: integrate player authentication and basic persistent stats.
 
 ### Core Deliverables:
 - A **playable prototype** of a fighting game (with 2 fighters)
-- Fully functional **multiplayer layer**
+- Fully functional **multiplayer framework**
 - Backend services running via **Docker**
 - Diagrams + technical documentation + weekly logs
 
@@ -37,7 +37,7 @@ This framework should allow:
 - **Git + GitHub** – Version control
 - **Miro / draw.io** – Diagrams and architecture
 - **Markdown** – Weekly logs, notes, and documentation
-- **OBS** – To record weekly demo videos and progress
+- Optionally: **OBS** – To record weekly demo videos and progress
 
 ---
 
