@@ -6,12 +6,19 @@
 
 ## Goals Completed
 - [List completed tasks]
+- Set up Miro
+- Set up Github repository and Wiki
+- Set up Codecs and to do list
+- Pepare a weekly progress template
 - [Brief notes on what you did — technical, planning, or research]
 
 ## Goals Planned vs. Done
 | Goal                           | Planned | Done | Notes                            |
 |--------------------------------|---------|------|----------------------------------|
-| Example: Set up GitHub         | ✅      | ✅   | Folder structure + .gitignore   |
+| Set up GitHub         | ✅      | ✅   | Folder structure + .gitignore   |
+| Set up GitHub Wiki         | ✅      | ✅   | Wiki page structure + information added  |
+| Set up Codec         | ✅      | ✅   | Week decks add + card tasks managed  |
+| Set up Miro         | ✅      | ✅   | Board added |
 | Example: Research architecture | ✅      | ✅   | Notes added in `docs/`          |
 
 ## Learning / Insights
