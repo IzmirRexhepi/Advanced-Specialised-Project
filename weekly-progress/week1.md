@@ -5,11 +5,16 @@
 ---
 
 ## Goals Completed
-- [List completed tasks]
-- Set up Miro
-- Set up Github repository and Wiki
-- Set up Codecs and to do list
-- Pepare a weekly progress template
+- **Set up Miro for planning and system design**  
+  Created a shared Miro board to map out multiplayer architecture ideas, backend flow, and general planning visuals.
+- **Set up GitHub repository and folder structure**  
+  Initialized the repo with folders for `godot-project/`, `backend/`, `docs/`, `weekly-progress/`, and `media/`. Included `.gitignore` specific to Godot.
+- **Set up GitHub Wiki**  
+  Created initial Wiki pages for architecture, tooling, and project planning documentation.
+- **Set up Codecks board and project decks**  
+  Created decks for weekly planning, added cards for setup tasks, and tracked completion status.
+- **Prepared weekly progress reporting template**  
+  Structured `weekly-progress/week1.md` to log goals, outcomes, and reflections weekly.
 - [Brief notes on what you did — technical, planning, or research]
 
 ## Goals Planned vs. Done
