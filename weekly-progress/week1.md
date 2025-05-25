@@ -21,28 +21,28 @@
 | Goal                           | Planned | Done | Notes                            |
 |--------------------------------|---------|------|----------------------------------|
 | Set up GitHub         | ✅      | ✅   | Folder structure + .gitignore   |
-| Set up GitHub Wiki         | ✅      | ✅   | Wiki page structure + information added  |
-| Set up Codec         | ✅      | ✅   | Week decks add + card tasks managed  |
-| Set up Miro         | ✅      | ✅   | Board added |
+| Set up GitHub Wiki         | ✅      | ✅   | Wiki page structure + basic docs added  |
+| Set up Codecks         | ✅      | ✅   | Week deck + task cards added   |
+| Set up Miro         | ✅      | ✅   | Multiplayer architecture board created |
 | Example: Research architecture | ✅      | ✅   | Notes added in `docs/`          |
 
 ## Learning / Insights
-- [Technical skills learned]
-- [Challenges or blockers and how you worked around them]
-- [What went well or needs improving]
+- Learned GitHub Wiki setup for flexible documentation
+- Got familiar with using Miro for visual planning and diagrammin systems.
+- Codecks is helpful for linking tasks directly to week goals but needs to be assigned in scrumsf for better time managemnets.
 
 ## Decisions Made
-- [Tech stack or architecture choices]
-- [Design decisions]
-- [Any team/process/tooling adjustments]
+- Will use **Godot 4.4.1** version for front-end
 
 ## Next Week Goals
-- [Clear bullet list of what you want to achieve]
-- [Mark what’s essential vs. stretch goals]
-- [Include setup, research, implementation, or testing goals]
+- Research multiplayer architectures (Client-Server, P2P, Lockstep)
+- Research and compare Nakama vs. OpenMatch
+- Decide on backend tech stack
+- Write initial architecture plan in `docs/api-design.md`
+- Set up local backend development environment
 
 ## Notes / Reflection
-- [Any personal or team reflections]
-- [Workflow or planning insights]
-- [Unexpected discoveries or blockers]
+- Week 1 was productive in setting the foundation.
+- Wiki and Codecks together improved planning clarity.
+- Excited to begin prototyping next week!
 
