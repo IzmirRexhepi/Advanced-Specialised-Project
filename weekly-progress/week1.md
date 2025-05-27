@@ -2,7 +2,7 @@
 
 ## Learning Style Reflection
 
-I learn best by doing. Building small prototypes helps me internalize concepts faster than just reading. I also benefit from visualizing systems, so I use Miro and diagrams extensively. My strength is structured planning and documentation, but I sometimes spend too much time researching instead of building. To stay focused, I’ll use weekly planning with Codecks and limit research time with Pomodoro timers. I’ll also review progress every Sunday.
+I learn best by doing. Building small prototypes helps me internalize concepts faster than just reading. Using diagrams to visualize the system on Miro is beneficial for my research. My strength is planning and documentation, but I sometimes spend too much time researching instead of building. I'll use Codecks for weekly planning and set up timers to limit my research time to stay focused. Every Sunday I will review my progress as well.
 
 ---
 
